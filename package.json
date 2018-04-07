@@ -1,0 +1,24 @@
+{
+  "name": "dbGui",
+  "version": "0.0.0",
+  "description": "another atempt for a db util",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianoCuenze/dbGui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianoCuenze/dbGui/issues"
+  },
+  "homepage": "https://github.com/marianoCuenze/dbGui#readme",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
